@@ -1,4 +1,5 @@
 <img align="right" width="150" height="150" src="./images/map.png">
+
 # `Nice to meet you 👋`
 
 [![linkedin](./images/linkedin.ico)](https://www.linkedin.com/in/arthur-richard-884645176/)
