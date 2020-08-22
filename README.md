@@ -2,9 +2,11 @@
 
 # `Nice to meet you 👋`
 
-## I'm currently working on
+## Useful links
 
-<iframe src="https://github.com/users/arthuRHD/projects/3" title="Maintenance board"></iframe>
+[![pypi](https://github.com/arthuRHD/arthuRHD/blob/master/images/pypi.svg)](https://pypi.org/user/arthuRHD/)
+[![dockerhub](https://github.com/arthuRHD/arthuRHD/blob/master/images/docker.svg)](https://hub.docker.com/u/arichard76)
+[![linkedin](https://github.com/arthuRHD/arthuRHD/blob/master/images/linkedin.ico)](https://www.linkedin.com/in/arthur-richard-884645176/)
 
 ## Cool repositories
 
@@ -21,5 +23,3 @@
 
 ![0x16845Afbaf8320900d4aeE7CE11230a657A0C2f7](https://github.com/arthuRHD/arthuRHD/blob/master/images/wallet.png)
 _0x16845Afbaf8320900d4aeE7CE11230a657A0C2f7_
-
-[![linkedin](https://github.com/arthuRHD/arthuRHD/blob/master/images/linkedin.ico)](https://www.linkedin.com/in/arthur-richard-884645176/)
