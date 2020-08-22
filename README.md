@@ -4,9 +4,9 @@
 
 ## Useful links
 
+[<img src="https://github.com/arthuRHD/arthuRHD/blob/master/linkedin.png" width=50>](https://www.linkedin.com/in/arthur-richard-884645176/)
 [<img src="https://github.com/arthuRHD/arthuRHD/blob/master/pypi.jpeg" width=50>](https://pypi.org/user/arthuRHD/)
 [<img src="https://github.com/arthuRHD/arthuRHD/blob/master/docker.jpeg" width=50>](https://hub.docker.com/u/arichard76)
-[<img src="https://github.com/arthuRHD/arthuRHD/blob/master/linkedin.png" width=50>](https://www.linkedin.com/in/arthur-richard-884645176/)
 
 ## Cool repositories
 
