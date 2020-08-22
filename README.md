@@ -1,12 +1,12 @@
-<img align="right" width="150" height="150" src="https://github.com/arthuRHD/arthuRHD/blob/master/images/map.png">
+<img align="right" width="150" height="150" src="map.png">
 
 # `Nice to meet you 👋`
 
 ## Useful links
 
-[![pypi](https://github.com/arthuRHD/arthuRHD/blob/master/images/pypi.svg)](https://pypi.org/user/arthuRHD/)
-[![dockerhub](https://github.com/arthuRHD/arthuRHD/blob/master/images/docker.svg)](https://hub.docker.com/u/arichard76)
-[![linkedin](https://github.com/arthuRHD/arthuRHD/blob/master/images/linkedin.ico)](https://www.linkedin.com/in/arthur-richard-884645176/)
+[<img src="pypi.jpeg" width=50>](https://pypi.org/user/arthuRHD/)
+[<img src="docker.jpeg" width=50>](https://hub.docker.com/u/arichard76)
+[<img src="linkedin.png" width=50>](https://www.linkedin.com/in/arthur-richard-884645176/)
 
 ## Cool repositories
 
@@ -21,5 +21,5 @@
 
 ## Support me 🌱
 
-![0x16845Afbaf8320900d4aeE7CE11230a657A0C2f7](https://github.com/arthuRHD/arthuRHD/blob/master/images/wallet.png)
+![0x16845Afbaf8320900d4aeE7CE11230a657A0C2f7](wallet.png)
 _0x16845Afbaf8320900d4aeE7CE11230a657A0C2f7_
