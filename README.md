@@ -13,7 +13,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=.vscode&show_owner=true)](https://github.com/arthuRHD/.vscode)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=coincli&show_owner=true)](https://github.com/arthuRHD/coincli)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=appium&repo=appium&show_owner=true)](https://github.com/appium/appium)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=projet-ata&show_owner=true)](https://github.com/arthuRHD/projet-ata)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=ML_ImageRecognizer&show_owner=true)](https://github.com/arthuRHD/ML_ImageRecognizer)
 
 ## Stats ⚡
 
