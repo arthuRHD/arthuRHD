@@ -15,8 +15,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=coincli&show_owner=true)](https://github.com/arthuRHD/coincli)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=ML_ImageRecognizer&show_owner=true)](https://github.com/arthuRHD/ML_ImageRecognizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=AppliGSB&show_owner=true)](https://github.com/arthuRHD/AppliGSB)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=appium&repo=appium&show_owner=true)](https://github.com/appium/appium)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthuRHD&repo=BatteryManager&show_owner=true)](https://github.com/arthuRHD/BatteryManager)
 
 ## Deployed :rocket:
 
