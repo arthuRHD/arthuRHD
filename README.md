@@ -1,6 +1,6 @@
 <img align="right" width="150" height="150" src="https://github.com/arthuRHD/arthuRHD/blob/master/map.png">
 
-# `Nice to meet you 👋`
+# `Nice to meet you 🤝`
 
 ## Useful links
 
