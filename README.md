@@ -1,5 +1,7 @@
 # `Nice to meet you 🤝`
 
+![](https://komarev.com/ghpvc/?username=arthuRHD&color=blueviolet)
+
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG32.png&f=1&nofb=1" width=90>](https://www.linkedin.com/in/arthur-richard-884645176/)
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-3vjua3XTKXY%2FXA-QFPCIdII%2FAAAAAAAAVAg%2Fi3Gpp6O3gyYO4hNW25DJ4lGy2nSc3R_6wCLcBGAs%2Fs1600%2Fpypi.png&f=1&nofb=1" width=100>](https://pypi.org/user/arthuRHD/)
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F97_Docker_logo_logos-512.png&f=1&nofb=1" width=100>](https://hub.docker.com/u/arichard76)
