@@ -9,12 +9,6 @@ Take a look at my production, you might find what you need. I'm interested in ef
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arthuRHD&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-### Currently learning 🌱
-
-- [x] #739
-- [ ] <https://github.com/octo-org/octo-repo/issues/740>
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
 ### Deployed 🚀
 
 [<img src="https://play-lh.googleusercontent.com/YP6BxvQBdaHyFOh6UCs_8cvGiXjHmgbFtxjsGgYwFDWIKMEH6rk2mwMMZbaX3jmBHjnl=s180" width=100>](https://play.google.com/store/apps/details?id=com.cubes.poiretopoire)
