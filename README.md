@@ -5,10 +5,6 @@
 
 Take a look at my production, you might find what you need. I'm interested in efficient systems and willing to expand my developer toolbelt. Help me showing the world what I'm capable at by writing a review on [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG32.png&f=1&nofb=1" width=15>](https://www.linkedin.com/in/engagesmoi/)
 
-## Stats ⚡
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arthuRHD&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Deployed 🚀
 
 [<img src="https://play-lh.googleusercontent.com/YP6BxvQBdaHyFOh6UCs_8cvGiXjHmgbFtxjsGgYwFDWIKMEH6rk2mwMMZbaX3jmBHjnl=s180" width=100>](https://play.google.com/store/apps/details?id=com.cubes.poiretopoire)
