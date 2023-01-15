@@ -1,8 +1,15 @@
 
 # ***`Nice to meet you 🤝`***
 
-![counter](https://komarev.com/ghpvc/?username=arthuRHD&color=red)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engagesmoi/)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11669428/arthurhd)
+[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/arthuRHD/)
+[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/arichard76)
+[![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arthur.richard@protonmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.richard2299@gmail.com)
 
-Take a look at my production, you might find what you need. Help me showing the world what I'm capable at by writing a review on [linkedin](https://www.linkedin.com/in/engagesmoi/)
+My name is Arthur and I am currently working as a developer at budgetbox. I have 3 years of experience in the software field and am well-versed in platform automation and problem solving in general. 
 
-[![user:11669428's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/11669428?theme=dark)](https://github.com/johannchopin/stackoverflow-readme-profile)
+I am excited to be a part of this community and look forward to contributing to the open-source's success.
+
+Take a look at my production, you might find what you need.
