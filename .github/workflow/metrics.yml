@@ -29,6 +29,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_url: https://www.arthurrichard.fr/
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 1
           plugin_stackoverflow_lines: 4
