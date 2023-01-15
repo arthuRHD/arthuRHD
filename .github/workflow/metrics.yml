@@ -29,13 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: recent
-          plugin_music_provider: youtube
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: spacecowboy5046
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 1
           plugin_stackoverflow_lines: 4
