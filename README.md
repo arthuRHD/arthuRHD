@@ -12,4 +12,3 @@ My name is Arthur and I am currently working as a developer at budgetbox. I have
 I am excited to be a part of this community and look forward to contributing to the open-source's success.
 
 Take a look at my production, you might find what you need.
-![image](./dream_car.stl)
