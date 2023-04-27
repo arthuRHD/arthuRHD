@@ -7,8 +7,6 @@
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arthur.richard@protonmail.com)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.richard2299@gmail.com)
 
-My name is Arthur and I am currently working as a developer at budgetbox. I have 3 years of experience in the software field and am well-versed in platform automation and problem solving in general. 
-
-I am excited to be a part of this community and look forward to contributing to the open-source's success.
+My name is Arthur and I am currently working as a developer. I am excited to be a part of this community and look forward to contributing to the open-source's success.
 
 Take a look at my production, you might find what you need.
