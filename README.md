@@ -7,6 +7,4 @@
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arthur.richard@protonmail.com)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.richard2299@gmail.com)
 
-My name is Arthur. I am excited to be a part of this open-source community and look forward to contributing.
-
-Take a look at my production, you might find what you need.
+My name is Arthur. I'm not a bot.
