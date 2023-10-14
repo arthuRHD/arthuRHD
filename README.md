@@ -26,6 +26,7 @@
 <a href="https://github.com/arthuRHD">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
+
 <a href="https://github.com/arthuRHD">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
